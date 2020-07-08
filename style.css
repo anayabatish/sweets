@@ -1,0 +1,39 @@
+.menu{
+    
+    color: white; 
+    text-decoration: none; 
+    font-size: 30; 
+    text-align: center;
+    padding: 30;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-transform: uppercase;
+    font-size: 40;
+}
+
+.item{
+    width: 20%;
+    padding: 5%;
+    float: left;
+    
+}
+
+.itempicture{
+    
+    
+    
+    
+}
+h2{
+    font-size: 30;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+}
+.row{
+    
+}
